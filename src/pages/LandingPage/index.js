@@ -12,7 +12,7 @@ import Route from "../../components/Router";
 
 export const Landingpage = () => {
   return (
-    <div className="w-screen h-screen">
+    <div className="w-screen h-screen overflow-x-hidden overflow-y-auto">
     
    <ContactUs />
       <Header />
